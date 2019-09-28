@@ -1,0 +1,15 @@
+html,
+body {
+    margin: 0;
+}
+
+.hero-image {
+    height: 75vh;
+    background: url('header.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    /*align-items: flex-end;*/
+    /*align-items: center;Center elements*/
+}

@@ -1,0 +1,4 @@
+.custom-list li {
+    list-style-type: none;
+    position: relative;
+}
